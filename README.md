@@ -10,6 +10,7 @@
 
 - 📫 Let's Talk : **voidalrogue@gmail.com**
 
+<img src="(https://drive.google.com/file/d/1NOWnatxXETQ2v1sZCaUJg4ZqY0bhtwCO/view?usp=sharing)" alt="Overwatch 2 Sojourn GIF"  width="100%" >
   <img src="https://media.giphy.com/media/CKF2uJ9zMVrjc9N4Yu/giphy.gif" alt="Overwatch 2 Sojourn GIF"  width="100%" >
 
 
