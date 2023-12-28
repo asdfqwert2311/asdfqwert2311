@@ -35,20 +35,33 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
 
-<div>
-    <span class="icon">&#x1F4D1;</span> HTML
-    <span class="icon">&#x1F4D1;</span> CSS
-    <span class="icon">&#x1F4D1;</span> JS
-    <span class="icon">&#x1F680;</span> React
-    <span class="icon">&#x1F310;</span> Django
-    <span class="icon">&#x1F525;</span> Firebase
-    <span class="icon">&#x1F5BE;</span> MongoDB
-    <span class="icon">&#x1F4DD;</span> SQL
-    <span class="icon">&#x1F58A;</span> Figma
-    <span class="icon">&#x1F4DD;</span> SQL
-    <span class="icon">&#x1F4CC;</span> C++
-    <span class="icon">&#x1F427;</span> Linux
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha384-kJl8x4RB3L4u/RS6TCMpGQPZUWF5iSlePQNOqIqUz9a78iUN1+swGONc1Ml2a5lD" crossorigin="anonymous">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .icon {
+      font-size: 24px;
+      margin-right: 5px;
+    }
+  </style>
+</head>
+
+  <div>
+    <span class="icon"><i class="fab fa-html5"></i></span> HTML
+    <span class="icon"><i class="fab fa-css3-alt"></i></span> CSS
+    <span class="icon"><i class="fab fa-js"></i></span> JS
+    <span class="icon"><i class="fab fa-react"></i></span> React
+    <span class="icon"><i class="fab fa-python"></i></span> Django
+    <span class="icon"><i class="fas fa-fire"></i></span> Firebase
+    <span class="icon"><i class="fas fa-database"></i></span> MongoDB
+    <span class="icon"><i class="fas fa-database"></i></span> SQL
+    <span class="icon"><i class="fas fa-pencil-ruler"></i></span> Figma
+    <span class="icon"><i class="fas fa-database"></i></span> SQL
+    <span class="icon"><i class="fab fa-cuttlefish"></i></span> C++
+    <span class="icon"><i class="fab fa-linux"></i></span> Linux
   </div>
+
 
 
 <br/>
