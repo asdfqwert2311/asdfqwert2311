@@ -35,5 +35,21 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
 
+<div>
+    <span class="icon">&#x1F4D1;</span> HTML
+    <span class="icon">&#x1F4D1;</span> CSS
+    <span class="icon">&#x1F4D1;</span> JS
+    <span class="icon">&#x1F680;</span> React
+    <span class="icon">&#x1F310;</span> Django
+    <span class="icon">&#x1F525;</span> Firebase
+    <span class="icon">&#x1F5BE;</span> MongoDB
+    <span class="icon">&#x1F4DD;</span> SQL
+    <span class="icon">&#x1F58A;</span> Figma
+    <span class="icon">&#x1F4DD;</span> SQL
+    <span class="icon">&#x1F4CC;</span> C++
+    <span class="icon">&#x1F427;</span> Linux
+  </div>
+
+
 <br/>
 
