@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" width="100">
 </h4>
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha384-kJl8x4RB3L4u/RS6TCMpGQPZUWF5iSlePQNOqIqUz9a78iUN1+swGONc1Ml2a5lD" crossorigin="anonymous">
@@ -65,5 +65,5 @@
 
 
 <br/>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase]()
 
